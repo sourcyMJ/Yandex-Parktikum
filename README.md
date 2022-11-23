@@ -38,7 +38,7 @@
   </tr>
 
   <tr>
-    <td><a href="https://github.com/mvakhmenin/Yandex.Practicum">Определение стоимости автомобилей</a></td>
+    <td><a href="https://github.com/sourcyMJ/Yandex-Parktikum/tree/main/Определение%20стоимости%20автомобилей">Определение стоимости автомобилей</a></td>
     <td>Прогнозирование оттока клиентов телеком-оператора</td>
     <td>Python, Pandas, Matplotlib, Gradient Boosting (CatBoost, XGBRegressor)</td>
   </tr>
