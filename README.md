@@ -17,7 +17,7 @@
     <td>Python, Pandas, Numpy, Matplotlib, Statsmodels, gradient boosting (lightgbm), OOP</td>
   </tr>
       <tr>
-    <td><a href="https://github.com/mvakhmenin/Yandex.Practicum/tree/main/%D0%9F%D1%80%D0%B5%D0%B4%D1%81%D0%BA%D0%B0%D0%B7%D0%B0%D0%BD%D0%B8%D0%B5%20%D1%83%D1%81%D0%BF%D0%B5%D1%88%D0%BD%D0%BE%D1%81%D1%82%D0%B8%20%D0%B8%D0%B3%D1%80">Предсказание успешности игр</a></td>
+    <td><a href="https://github.com/sourcyMJ/Yandex-Parktikum/tree/main/Успешность%20компьютерной%20игры">Предсказание успешности игр</a></td>
     <td>Используя исторические данные, определить факторы успеха компьютерных игр</td>
     <td>Python, Pandas, Numpy, Matplotlib, scipy (статистическая проверка гипотез)</td>
   </tr>
