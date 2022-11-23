@@ -38,8 +38,8 @@
   </tr>
 
   <tr>
-    <td><a href="https://github.com/mvakhmenin/Yandex.Practicum">Финальный проект</a></td>
+    <td><a href="https://github.com/mvakhmenin/Yandex.Practicum">Определение стоимости автомобилей</a></td>
     <td>Прогнозирование оттока клиентов телеком-оператора</td>
-    <td>Python, Pandas, Matplotlib, Plotly, Scikit-learn, gradient boosting (lightgbm, CatBoost), optuna</td>
+    <td>Python, Pandas, Matplotlib, Gradient Boosting (CatBoost, XGBRegressor)</td>
   </tr>
 </table>
