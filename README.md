@@ -12,7 +12,7 @@
     <td width=30%><b>Стек</b></td>
   </tr>
         <tr>
-    <td><a href="https://github.com/mvakhmenin/Yandex.Practicum/tree/main/%D0%92%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D0%BD%D1%8B%D0%B5%20%D1%80%D1%8F%D0%B4%D1%8B">Временные ряды</a></td>
+    <td><a href="https://github.com/sourcyMJ/Yandex-Parktikum/tree/main/Временные%20ряды">Временные ряды</a></td>
     <td>Модель педсказания количества поездок на такси в следующий час</td>
     <td>Python, Pandas, Numpy, Matplotlib, Statsmodels, gradient boosting (lightgbm), OOP</td>
   </tr>
