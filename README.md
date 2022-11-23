@@ -1,49 +1,39 @@
+{\rtf1\ansi\ansicpg1251\cocoartf2580
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fnil\fcharset0 HelveticaNeue-Bold;\f1\fnil\fcharset0 Menlo-Regular;\f2\fnil\fcharset0 HelveticaNeue;
+}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+{\*\listtable{\list\listtemplateid1\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{disc\}}{\leveltext\leveltemplateid1\'01\uc0\u8226 ;}{\levelnumbers;}\fi-360\li720\lin720 }{\listname ;}\listid1}
+{\list\listtemplateid2\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{disc\}}{\leveltext\leveltemplateid101\'01\uc0\u8226 ;}{\levelnumbers;}\fi-360\li720\lin720 }{\listname ;}\listid2}
+{\list\listtemplateid3\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{disc\}}{\leveltext\leveltemplateid201\'01\uc0\u8226 ;}{\levelnumbers;}\fi-360\li720\lin720 }{\listname ;}\listid3}}
+{\*\listoverridetable{\listoverride\listid1\listoverridecount0\ls1}{\listoverride\listid2\listoverridecount0\ls2}{\listoverride\listid3\listoverridecount0\ls3}}
+\paperw11900\paperh16840\margl1440\margr1440\vieww11520\viewh8400\viewkind0
+\deftab560
+\pard\pardeftab560\sa40\partightenfactor0
 
+\f0\b\fs32 \cf0 \uc0\u1055 \u1088 \u1086 \u1075 \u1085 \u1086 \u1079 \u1080 \u1088 \u1086 \u1074 \u1072 \u1085 \u1080 \u1077  \u1079 \u1072 \u1082 \u1072 \u1079 \u1086 \u1074  \u1090 \u1072 \u1082 \u1089 \u1080  (\u1058 \u1077 \u1084 \u1072 : \u1074 \u1088 \u1077 \u1084 \u1077 \u1085 \u1085 \u1099 \u1077  \u1088 \u1103 \u1076 \u1099 )\
+\pard\pardeftab560\slleading20\partightenfactor0
 
-<center><h1>Проекты Yandex.Praktikum Data Science (учебные)</h1></center>
-<a href="https://praktikum.yandex.ru/"><img width=100% src="https://miro.medium.com/max/1400/0*uVP0WwEWOtpHs40E.png"></a><br><br>
-<p align=center>
-Репозиторий содержит проекты выполненные мной во время прохождения обучения в Yandex.Praktikum на курсе "Специалист по Data Science".<br>
+\fs26 \cf0 \
+\uc0\u1047 \u1072 \u1076 \u1072 \u1095 \u1072 :\
+\pard\pardeftab560\pardirnatural\partightenfactor0
+\ls1\ilvl0
+\f1\b0\fs18 \cf0 {\listtext	\uc0\u8226 	}
+\f2\fs26 \uc0\u1056 \u1072 \u1079 \u1088 \u1072 \u1073 \u1086 \u1090 \u1072 \u1090 \u1100  \u1084 \u1086 \u1076 \u1077 \u1083 \u1100  \u1087 \u1088 \u1077 \u1076 \u1089 \u1082 \u1072 \u1079 \u1072 \u1085 \u1080 \u1103  \u1082 \u1086 \u1083 \u1080 \u1095 \u1077 \u1089 \u1090 \u1074 \u1072  \u1087 \u1086 \u1077 \u1079 \u1076 \u1086 \u1082  \u1085 \u1072  \u1090 \u1072 \u1082 \u1089 \u1080  \u1074  \u1089 \u1083 \u1077 \u1076 \u1091 \u1102 \u1097 \u1080 \u1081  \u1095 \u1072 \u1089 \
+\pard\pardeftab560\slleading20\partightenfactor0
 
-<table width=100% valign=top >
-  <tr>
-    <td width=25%><b>Проект</b></td>
-    <td><b>Описание</b></td>
-    <td width=30%><b>Стек</b></td>
-  </tr>
-        <tr>
-    <td><a href="https://github.com/mvakhmenin/Yandex.Practicum/tree/main/%D0%92%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D0%BD%D1%8B%D0%B5%20%D1%80%D1%8F%D0%B4%D1%8B">Временные ряды</a></td>
-    <td>Модель педсказания количества поездок на такси в следующий час</td>
-    <td>Python, Pandas, Numpy, Matplotlib, Statsmodels, gradient boosting (lightgbm), OOP</td>
-  </tr>
-      <tr>
-    <td><a href="https://github.com/mvakhmenin/Yandex.Practicum/tree/main/%D0%9F%D1%80%D0%B5%D0%B4%D1%81%D0%BA%D0%B0%D0%B7%D0%B0%D0%BD%D0%B8%D0%B5%20%D1%83%D1%81%D0%BF%D0%B5%D1%88%D0%BD%D0%BE%D1%81%D1%82%D0%B8%20%D0%B8%D0%B3%D1%80">Предсказание успешности игр</a></td>
-    <td>Используя исторические данные, определить факторы успеха компьютерных игр</td>
-    <td>Python, Pandas, Numpy, Matplotlib, scipy (статистическая проверка гипотез)</td>
-  </tr>
-    <tr>
-    <td><a href="https://github.com/mvakhmenin/Yandex.Practicum/tree/main/%D0%9F%D1%80%D0%B5%D0%B4%D1%81%D0%BA%D0%B0%D0%B7%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%BA%D0%BE%D1%8D%D1%84%D1%84%D0%B8%D1%86%D0%B8%D0%B5%D0%BD%D1%82%D0%B0%20%D0%B8%D0%B7%D0%B2%D0%BB%D0%B5%D1%87%D0%B5%D0%BD%D0%B8%D1%8F%20%D0%B7%D0%BE%D0%BB%D0%BE%D1%82%D0%B0">Предсказание коэффициента извлечения золота</a></td>
-    <td>Модель предсказывает коэффициент извлечения золота из золотосодержащей руды. Модель помогает оптимизировать производство, чтобы не запускать предприятие с убыточными характеристиками</td>
-    <td>Python, Pandas, Matplotlib, Gradient Boosting (CatBoost)</td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/mvakhmenin/Yandex.Practicum/tree/main/%D0%9A%D0%BB%D0%B0%D1%81%D1%81%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%86%D0%B8%D1%8F%20%D1%82%D0%B5%D0%BA%D1%81%D1%82%D0%BE%D0%B2">Классификация комментариев пользователей</a></td>
-    <td>Разработка модели, которая будет искать токсичные комментарии клиентов интернет-магазина и отправлять их на модерацию</td>
-    <td>Python, Pandas, PyTorch, BERT (CUDA)</td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/mvakhmenin/Yandex.Practicum/tree/main/%D0%98%D1%81%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%BD%D0%B0%D0%B4%D1%91%D0%B6%D0%BD%D0%BE%D1%81%D1%82%D0%B8%20%D0%B7%D0%B0%D1%91%D0%BC%D1%89%D0%B8%D0%BA%D0%BE%D0%B2">Исследование надёжности заёмщиков</a></td>
-    <td>Определение факторов, влияющих на погашение заемщиком кредита в срок</td>
-    <td>Python, Pandas, Matplotlib</td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/mvakhmenin/Yandex.Practicum/tree/main/%D0%9E%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%B2%D0%BE%D0%B7%D1%80%D0%B0%D1%81%D1%82%D0%B0%20%D0%BF%D0%BE%20%D1%84%D0%BE%D1%82%D0%BE">Определение возраста по фото</a></td>
-    <td>Модель определения приблизительного возраста человека по фотографии</td>
-    <td>Python, Pandas, Matplotlib, Keras, ResNet</td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/mvakhmenin/Yandex.Practicum">Финальный проект</a></td>
-    <td>Прогнозирование оттока клиентов телеком-оператора</td>
-    <td>Python, Pandas, Matplotlib, Plotly, Scikit-learn, gradient boosting (lightgbm, CatBoost), optuna</td>
-  </tr>
-</table>
+\f0\b \cf0 \
+\uc0\u1054 \u1087 \u1080 \u1089 \u1072 \u1085 \u1080 \u1077  \u1087 \u1088 \u1086 \u1077 \u1082 \u1090 \u1072 :\
+\pard\pardeftab560\pardirnatural\partightenfactor0
+\ls2\ilvl0
+\f1\b0\fs18 \cf0 {\listtext	\uc0\u8226 	}
+\f2\fs26 \uc0\u1053 \u1077 \u1086 \u1073 \u1093 \u1086 \u1076 \u1080 \u1084 \u1086  \u1087 \u1088 \u1086 \u1072 \u1085 \u1072 \u1083 \u1080 \u1079 \u1080 \u1088 \u1086 \u1074 \u1072 \u1090 \u1100  \u1080 \u1089 \u1090 \u1086 \u1088 \u1080 \u1095 \u1077 \u1089 \u1082 \u1080 \u1077  \u1076 \u1072 \u1085 \u1085 \u1099 \u1077  \u1087 \u1086  \u1082 \u1086 \u1083 \u1080 \u1095 \u1077 \u1089 \u1090 \u1074 \u1091  \u1079 \u1072 \u1082 \u1072 \u1079 \u1086 \u1074  \u1090 \u1072 \u1082 \u1089 \u1080  \u1074  \u1072 \u1101 \u1088 \u1086 \u1087 \u1086 \u1088 \u1090 \u1072 \u1093 . \u1056 \u1091 \u1082 \u1086 \u1074 \u1086 \u1076 \u1089 \u1090 \u1074 \u1091 \u1103 \u1089 \u1100  \u1088 \u1077 \u1079 \u1091 \u1083 \u1100 \u1090 \u1072 \u1090 \u1072 \u1084 \u1080  \u1072 \u1085 \u1072 \u1083 \u1080 \u1079 \u1072 , \u1085 \u1077 \u1086 \u1073 \u1093 \u1086 \u1076 \u1080 \u1084 \u1086  \u1087 \u1088 \u1077 \u1076 \u1089 \u1082 \u1072 \u1079 \u1072 \u1090 \u1100  \u1082 \u1086 \u1083 \u1080 \u1095 \u1077 \u1089 \u1090 \u1074 \u1086  \u1079 \u1072 \u1082 \u1072 \u1079 \u1086 \u1074  \u1090 \u1072 \u1082 \u1089 \u1080  \u1085 \u1072  \u1089 \u1083 \u1077 \u1076 \u1091 \u1102 \u1097 \u1080 \u1081  \u1095 \u1072 \u1089 , \u1095 \u1090 \u1086 \u1073 \u1099  \u1087 \u1088 \u1080 \u1074 \u1083 \u1077 \u1082 \u1072 \u1090 \u1100  \u1073 \u1086 \u1083 \u1100 \u1096 \u1077  \u1074 \u1086 \u1076 \u1080 \u1090 \u1077 \u1083 \u1077 \u1081  \u1074  \u1087 \u1077 \u1088 \u1080 \u1086 \u1076 \u1099  \u1087 \u1080 \u1082 \u1086 \u1074 \u1086 \u1075 \u1086  \u1089 \u1087 \u1088 \u1086 \u1089 \u1072 . \u1054 \u1096 \u1080 \u1073 \u1082 \u1072  \u1087 \u1088 \u1077 \u1076 \u1089 \u1082 \u1072 \u1079 \u1072 \u1085 \u1080 \u1103  \u1084 \u1086 \u1076 \u1077 \u1083 \u1080  (RMSE) \u1085 \u1077  \u1076 \u1086 \u1083 \u1078 \u1085 \u1072  \u1087 \u1088 \u1077 \u1074 \u1099 \u1096 \u1072 \u1090 \u1100  48.\
+\pard\pardeftab560\slleading20\partightenfactor0
+
+\f0\b \cf0 \
+\uc0\u1057 \u1090 \u1077 \u1082 :\
+\pard\pardeftab560\pardirnatural\partightenfactor0
+\ls3\ilvl0
+\f1\b0\fs18 \cf0 {\listtext	\uc0\u8226 	}
+\f2\fs26 Python, Pandas, Numpy, Matplotlib, Statsmodels, gradient boosting (lightgbm), OOP\
+}
