@@ -27,9 +27,9 @@
     <td>Python, Pandas, Matplotlib, Gradient Boosting (CatBoost)</td>
   </tr>
   <tr>
-    <td><a href="https://github.com/mvakhmenin/Yandex.Practicum/tree/main/%D0%9A%D0%BB%D0%B0%D1%81%D1%81%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%86%D0%B8%D1%8F%20%D1%82%D0%B5%D0%BA%D1%81%D1%82%D0%BE%D0%B2">Классификация комментариев пользователей</a></td>
-    <td>Разработка модели, которая будет искать токсичные комментарии клиентов интернет-магазина и отправлять их на модерацию</td>
-    <td>Python, Pandas, PyTorch, BERT (CUDA)</td>
+    <td><a href="https://github.com/sourcyMJ/Yandex-Parktikum/tree/main/Отток%20клиентов%20из%20банка">Отток клиентов из банка</a></td>
+    <td>Необходимо построить модель с предельно большим значением F1-меры, которая будет предсказывать, уйдет ли клиент</td>
+    <td>Python, Pandas, Matplotlib, Машинное обучение с учителем, дисбаланс выборки</td>
   </tr>
   <tr>
     <td><a href="https://github.com/mvakhmenin/Yandex.Practicum/tree/main/%D0%98%D1%81%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%BD%D0%B0%D0%B4%D1%91%D0%B6%D0%BD%D0%BE%D1%81%D1%82%D0%B8%20%D0%B7%D0%B0%D1%91%D0%BC%D1%89%D0%B8%D0%BA%D0%BE%D0%B2">Исследование надёжности заёмщиков</a></td>
