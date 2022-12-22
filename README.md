@@ -27,7 +27,7 @@
     <td>Python, Pandas, Matplotlib, Gradient Boosting (CatBoost)</td>
   </tr>
   <tr>
-    <td><a href="https://github.com/sourcyMJ/Yandex-Parktikum/tree/main/Прогнозирование%20ухода%20для%20интернет%20провайдера">Прогнозирование ухода от интернент провайдера</a></td>
+    <td><a href="https://github.com/sourcyMJ/Yandex-Parktikum">Прогнозирование ухода от интернент провайдера</a></td>
     <td>Используя исторические данные модель определяет какие клиенту уйдут в отток.</td>
     <td>Python, Pandas, Matplotlib, CatBoost classifier, statsmodels </td>
   </tr>
