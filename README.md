@@ -27,6 +27,12 @@
     <td>Python, Pandas, Matplotlib, Gradient Boosting (CatBoost)</td>
   </tr>
   <tr>
+    <td><a href="https://github.com/sourcyMJ/Yandex-Parktikum/tree/main/Определение%20перспективного%20тарифа%20мобильного%20оператора">Определение перспективного тарифа мобильного оператора</a></td>
+    <td>Определение какой из двух тарифов приносит больше денег</td>
+    <td>Python, Pandas, Seaborn, Scipy(Bartlett test, t-test) </td>
+  </tr>
+  
+  <tr>
     <td><a href="https://github.com/sourcyMJ/Yandex-Parktikum">Прогнозирование ухода от интернент провайдера</a></td>
     <td>Используя исторические данные модель определяет какие клиенту уйдут в отток.</td>
     <td>Python, Pandas, Matplotlib, CatBoost classifier, statsmodels </td>
