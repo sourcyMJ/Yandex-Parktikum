@@ -17,7 +17,7 @@
     <td>Python, Pandas, Numpy, Matplotlib, Statsmodels, gradient boosting (lightgbm), OOP</td>
   </tr>
       <tr>
-    <td><a href="https://github.com/sourcyMJ/Yandex-Parktikum/tree/main/Успешность%20компьютерной%20игры">Успешность компьютерной игры</a></td>
+    <td><a href="https://github.com/sourcyMJ/Yandex-Parktikum/blob/784886c40894a6c7f599edff774132bcd1410713/%D0%A3%D1%81%D0%BF%D0%B5%D1%88%D0%BD%D0%BE%D1%81%D1%82%D1%8C%20%D0%BA%D0%BE%D0%BC%D0%BF%D1%8C%D1%8E%D1%82%D0%B5%D1%80%D0%BD%D0%BE%D0%B8%CC%86%20%D0%B8%D0%B3%D1%80%D1%8B/%D0%A3%D1%81%D0%BF%D0%B5%D1%88%D0%BD%D0%BE%D1%81%D1%82%D1%8C%20%D0%BA%D0%BE%D0%BC%D0%BF%D1%8C%D1%8E%D1%82%D0%B5%D1%80%D0%BD%D0%BE%D0%B9%20%D0%B8%D0%B3%D1%80%D1%8B.ipynb">Успешность компьютерной игры</a></td>
     <td>Используя исторические данные, определить факторы успеха компьютерных игр</td>
     <td>Python, Pandas, Numpy, Matplotlib, scipy (статистическая проверка гипотез)</td>
   </tr>
