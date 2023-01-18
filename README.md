@@ -51,7 +51,7 @@
   </tr>
 
   <tr>
-    <td><a href="https://github.com/sourcyMJ/Yandex-Parktikum">Определение стоимости автомобилей</a></td>
+    <td><a href="https://github.com/sourcyMJ/Yandex-Parktikum/blob/528a1dbcf566572fb5b4fd32db28049431dbc3fa/%D0%9E%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5%20%D1%81%D1%82%D0%BE%D0%B8%D0%BC%D0%BE%D1%81%D1%82%D0%B8%20%D0%B0%D0%B2%D1%82%D0%BE%D0%BC%D0%BE%D0%B1%D0%B8%D0%BB%D0%B5%D0%B8%CC%86/%D0%9E%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5%20%D1%81%D1%82%D0%BE%D0%B8%D0%BC%D0%BE%D1%81%D1%82%D0%B8%20%D0%B0%D0%B2%D1%82%D0%BE%D0%BC%D0%BE%D0%B1%D0%B8%D0%BB%D0%B5%D0%B9.ipynb">Определение стоимости автомобилей</a></td>
     <td>Прогнозирование оттока клиентов телеком-оператора</td>
     <td>Python, Pandas, Matplotlib, Gradient Boosting (CatBoost, XGBRegressor)</td>
   </tr>
