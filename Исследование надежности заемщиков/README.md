@@ -1,10 +1,10 @@
-# Исследование надёжности заёмщиков
+# Investigation of the reliability of borrowers
 
-#### Задача: 
-- Определить факторы, влияющих на погашение заемщиком кредита в срок
+#### Mission: 
+- Determine the factors affecting the repayment of the loan by the borrower on time
 
-#### Описание проекта:
-- Заказчик — кредитный отдел банка. Нужно определить влияет ли семейное положение и количество детей клиента на факт погашения кредита в срок. Входные данные от банка — статистика о платёжеспособности клиентов. Результаты исследования будут учтены при построении модели кредитного скоринга — специальной системы, которая оценивает способность потенциального заёмщика вернуть кредит банку.
+#### Project Description:
+- The customer is the credit department of the bank. It is necessary to determine whether the marital status and the number of children of the client affect the fact of repayment of the loan on time. Input data from the bank — statistics on the solvency of customers. The results of the study will be taken into account when building a credit scoring model — a special system that evaluates the ability of a potential borrower to repay a loan to a bank.
 
-#### Стек:
+#### Stack:
 - Python, Pandas, Matplotlib
