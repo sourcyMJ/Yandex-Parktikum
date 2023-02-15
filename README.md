@@ -45,7 +45,7 @@
     <td>Python, Pandas, Matplotlib, Машинное обучение с учителем, дисбаланс выборки</td>
   </tr>
   <tr>
-    <td><a href="https://github.com/sourcyMJ/Yandex-Parktikum/tree/main/Исследование%20надежности%20заемщиков">Investigation of the reliability of borrowers</a></td>
+    <td><a href="https://github.com/sourcyMJ/Yandex-Parktikum/tree/main/Исследование%20надежности%20заемщиков">Determination of loan borrowers' reliablity</a></td>
     <td>Determination of factors affecting the repayment of the loan by the borrower on time</td>
     <td>Python, Pandas, Matplotlib</td>
   </tr>
