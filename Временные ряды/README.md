@@ -1,10 +1,10 @@
-Прогнозирование заказов такси (Тема: временные ряды)
+Forecasting taxi orders (Topic: time series)
 
-Задача:
-* Разработать модель предсказания количества поездок на такси в следующий час
+Task:
+* Develop a model for predicting the number of taxi rides in the next hour
 
-Описание проекта:
-* Необходимо проанализировать исторические данные по количеству заказов такси в аэропортах. Руководствуясь результатами анализа, необходимо предсказать количество заказов такси на следующий час, чтобы привлекать больше водителей в периоды пикового спроса. Ошибка предсказания модели (RMSE) не должна превышать 48.
+Project description:
+* It is necessary to analyze historical data on the number of taxi orders at airports. Based on the results of the analysis, it is necessary to predict the number of taxi orders for the next hour in order to attract more drivers during peak demand periods. The model prediction error (RMSE) should not exceed 48.
 
-Стек:
+Stack:
 * Python, Pandas, Numpy, Matplotlib, Statsmodels, gradient boosting (lightgbm)
