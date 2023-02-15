@@ -13,7 +13,7 @@
   </tr>
         <tr>
     <td><a href="https://github.com/sourcyMJ/Yandex-Parktikum/tree/main/Time%20series">Time series</a></td>
-    <td>Модель педсказания количества поездок на такси в следующий час</td>
+    <td>A model for predicting the number of taxi rides in the next hour</td>
     <td>Python, Pandas, Numpy, Matplotlib, Statsmodels, gradient boosting (lightgbm), OOP</td>
   </tr>
       <tr>
