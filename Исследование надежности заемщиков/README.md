@@ -1,4 +1,4 @@
-# Investigation of the reliability of borrowers
+# Determination of loan borrowers' reliability
 
 #### Mission: 
 - Determine the factors affecting the repayment of the loan by the borrower on time
