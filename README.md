@@ -12,7 +12,7 @@
     <td width=30%><b>Стек</b></td>
   </tr>
         <tr>
-    <td><a href="https://github.com/sourcyMJ/Yandex-Parktikum/tree/main/Временные%20ряды">Временные ряды</a></td>
+    <td><a href="https://github.com/sourcyMJ/Yandex-Parktikum/tree/main/Временные%20ряды">Time series</a></td>
     <td>Модель педсказания количества поездок на такси в следующий час</td>
     <td>Python, Pandas, Numpy, Matplotlib, Statsmodels, gradient boosting (lightgbm), OOP</td>
   </tr>
