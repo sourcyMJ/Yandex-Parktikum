@@ -1,4 +1,4 @@
-*** Forecasting taxi orders (Topic: time series)
+** Forecasting taxi orders (Topic: time series)
 
 Task:
 * Develop a model for predicting the number of taxi rides in the next hour
