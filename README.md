@@ -1,8 +1,6 @@
 
 
 <center><h1>Yandex.Praktikum Data Science Projects (educational)</h1></center>
-<a href="https://praktikum.yandex.ru/"><img width=100% src="https://miro.medium.com/max/1400/0*uVP0WwEWOtpHs40E.png"></a><br><br>
-<p align=center>
 The repository contains projects completed by me during professional retraining at Yandex on the course "Data Scientist".<br>
 
 <table width=100% valign=top >
