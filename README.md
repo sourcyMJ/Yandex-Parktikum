@@ -27,8 +27,8 @@
     <td>Python, Pandas, Matplotlib, Gradient Boosting (CatBoost)</td>
   </tr>
   <tr>
-    <td><a href="https://github.com/sourcyMJ/Yandex-Parktikum/tree/main/Определение%20перспективного%20тарифа%20мобильного%20оператора">Определение перспективного тарифа мобильного оператора</a></td>
-    <td>Определение какой из двух тарифов приносит больше денег</td>
+    <td><a href="https://github.com/sourcyMJ/Yandex-Parktikum/tree/main/Determining%20the%20most%20favorable%20tariff%20for%20a%20telecom%20operator">Determination of the prospective tariff for telecom operator</a></td>
+    <td>Determining which of the two tariffs brings more money</td>
     <td>Python, Pandas, Seaborn, Scipy(Bartlett test, t-test) </td>
   </tr>
   
