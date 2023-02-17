@@ -19,11 +19,6 @@ The repository contains projects completed by me during professional retraining 
     <td>Используя исторические данные, определить факторы успеха компьютерных игр</td>
     <td>Python, Pandas, Numpy, Matplotlib, scipy (статистическая проверка гипотез)</td>
   </tr>
-    <tr>
-    <td><a href="https://github.com/sourcyMJ/Yandex-Parktikum/tree/main/Предсказание%20коэффициента%20восстановления%20золота">Предсказание коэффициента извлечения золота</a></td>
-    <td>Модель предсказывает коэффициент извлечения золота из золотосодержащей руды. Модель помогает оптимизировать производство, чтобы не запускать предприятие с убыточными характеристиками</td>
-    <td>Python, Pandas, Matplotlib, Gradient Boosting (CatBoost)</td>
-  </tr>
   <tr>
     <td><a href="https://github.com/sourcyMJ/Yandex-Parktikum/tree/main/Determining%20the%20most%20favorable%20tariff%20for%20a%20telecom%20operator">Determination of the prospective tariff for telecom operator</a></td>
     <td>Determining which of the two tariffs brings more money</td>
