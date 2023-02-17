@@ -5,9 +5,9 @@ The repository contains projects completed by me during professional retraining 
 
 <table width=100% valign=top >
   <tr>
-    <td width=25%><b>Проект</b></td>
-    <td><b>Описание</b></td>
-    <td width=30%><b>Стек</b></td>
+    <td width=25%><b>Project</b></td>
+    <td><b>Description</b></td>
+    <td width=30%><b>Stack</b></td>
   </tr>
         <tr>
     <td><a href="https://github.com/sourcyMJ/Yandex-Parktikum/tree/main/Time%20series">Time series</a></td>
