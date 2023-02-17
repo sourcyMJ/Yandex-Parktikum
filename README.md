@@ -38,9 +38,9 @@ The repository contains projects completed by me during professional retraining 
   
   
   <tr>
-    <td><a href="https://github.com/sourcyMJ/Yandex-Parktikum/tree/main/Отток%20клиентов%20из%20банка">Отток клиентов из банка</a></td>
-    <td>Необходимо построить модель с предельно большим значением F1-меры, которая будет предсказывать, уйдет ли клиент</td>
-    <td>Python, Pandas, Matplotlib, Машинное обучение с учителем, дисбаланс выборки</td>
+    <td><a href="https://github.com/sourcyMJ/Yandex-Parktikum/tree/main/Customers%20outflow%20from%20the%20bank">Outflow of customers from the bank</a></td>
+    <td>It is necessary to build a model with highest possible value of F1-measure, which will predict whether the client will leave.</td>
+    <td>Python, Pandas, Matplotlib, Machine learning with a teacher, sampling imbalance</td>
   </tr>
   <tr>
     <td><a href="https://github.com/sourcyMJ/Yandex-Parktikum/tree/main/Determination%20of%20borrower's%20reliability">Determination of loan borrowers' reliablity</a></td>
