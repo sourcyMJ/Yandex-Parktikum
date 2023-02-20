@@ -26,8 +26,8 @@ The repository contains projects completed by me during professional retraining 
   </tr>
   
   <tr>
-    <td><a href="https://github.com/sourcyMJ/Yandex-Parktikum/blob/ac002379af6fac7f8d20db29ae17ec2310481f3e/%D0%9F%D1%80%D0%BE%D0%B3%D0%BD%D0%BE%D0%B7%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D1%83%D1%85%D0%BE%D0%B4%D0%B0%20%D0%B4%D0%BB%D1%8F%20%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D0%BD%D0%B5%D1%82%20%D0%BF%D1%80%D0%BE%D0%B2%D0%B0%D0%B8%CC%86%D0%B4%D0%B5%D1%80%D0%B0/%D0%9F%D1%80%D0%BE%D0%B3%D0%BD%D0%BE%D0%B7%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D1%83%D1%85%D0%BE%D0%B4%D0%B0%20%D0%BA%D0%BB%D0%B8%D0%B5%D0%BD%D1%82%D0%BE%D0%B2%20%D0%BF%D1%80%D0%BE%D0%B2%D0%B0%D0%B8%CC%86%D0%B4%D0%B5%D1%80%D0%B0.ipynb">Прогнозирование ухода от интернент провайдера</a></td>
-    <td>Используя исторические данные модель определяет какие клиенту уйдут в отток.</td>
+    <td><a href="https://github.com/sourcyMJ/Yandex-Parktikum/tree/main/Predicting%20the%20outflow%20of%20provider's%20clients">Predicting the outflow of Internet provider customers</a></td>
+    <td>It's necessary to build a model that will help company predict whether its client is going to leave. The target variable is not defined.</td>
     <td>Python, Pandas, Matplotlib, CatBoost classifier, statsmodels </td>
   </tr>
   
