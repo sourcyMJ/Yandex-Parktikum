@@ -1,6 +1,6 @@
 
 
-<center><h1>Yandex.Praktikum Data Science Projects (educational)</h1></center>
+<center><h1>Yandex.Praktikum Data Science Projects </h1></center>
 The repository contains projects completed by me during professional retraining at Yandex on the course "Data Scientist".<br>
 
 <table width=100% valign=top >
